@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">DicePlay</string>
-    <string name="click">CLICK</string>
+    <string name="click">DROP DICE</string>
 </resources>
