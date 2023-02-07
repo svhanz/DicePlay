@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         bindigClass = ActivityMainBinding.inflate(layoutInflater)
         setContentView(bindigClass.root)
         bindigClass.buttonClick.setOnClickListener {
-            Toast.makeText(this, "button clicked", Toast.LENGTH_SHORT).show()
+            //Toast.makeText(this, "button clicked", Toast.LENGTH_SHORT).show()
             rollDice()
         }
     }
